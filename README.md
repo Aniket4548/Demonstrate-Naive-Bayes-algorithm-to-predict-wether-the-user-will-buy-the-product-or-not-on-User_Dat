@@ -1,0 +1,1 @@
+# Demonstrate-Naive-Bayes-algorithm-to-predict-wether-the-user-will-buy-the-product-or-not-on-User_Dat
